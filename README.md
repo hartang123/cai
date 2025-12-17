@@ -1,3 +1,3 @@
-# cau
+# Next.js App
 
-This repository has been initialized with a README.
+This is a basic Next.js project with pages for Posts, Projects, and About.
